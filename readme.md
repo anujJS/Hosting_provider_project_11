@@ -8,9 +8,9 @@ flex ,grid , postion property
 
 - Full Desktop View
 - Mobile Responsibe
-  -Live Review
+- Live Review
 
-# Demo | Netlify
+# Demo | Vercel
 
 Link is here
-https://hosting-provider.netlify.app
+https://hosting-provider-project-11.vercel.app/
